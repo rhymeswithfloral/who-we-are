@@ -1,12 +1,12 @@
 ## your name
 
-+ you don't have to use your real name, remember: but if you use a pseudonym, let me know via private message in our slack space
++ Rhymes with Floral (aka. Laurel)
 
 -----
 
 ## My Online HQ
 
-+ this section will include a link to your own domain, and a link to your open notebook
++ http://rhymeswithfloral.github.io/demo
 
 ------
 
