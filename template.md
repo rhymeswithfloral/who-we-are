@@ -6,7 +6,7 @@
 
 ## My Online HQ
 
-link to your online hq:
+link to your online hq (remember how to format markdown links):
 
 + [electricarchaeology](http://electricarchaeology.ca)
 ------
