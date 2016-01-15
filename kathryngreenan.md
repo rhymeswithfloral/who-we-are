@@ -6,7 +6,8 @@
 
 ## My Online HQ
 
-- [Complex by Degree](http://kathryngreenan.ca)
++ [Complex by Degree](http://kathryngreenan.ca)
+
 ------
 
 ## anything else you want to share
