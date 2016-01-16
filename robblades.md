@@ -1,4 +1,4 @@
-## your name
+## Rob Blades
 
 + your name
 
@@ -8,7 +8,9 @@
 
 link to your online hq (remember how to format markdown links):
 
-+ [electricarchaeology](http://electricarchaeology.ca)
++ [bladesrob.com](http://bladesrob.com)
 ------
 
 ## anything else you want to share
+
+**YAY!**
